@@ -1,5 +1,3 @@
-# DSA
-My DSA practice
 public class DSA {
     public static void main(String[] args) {
         System.out.println("My DSA Journey Started!");
